@@ -83,7 +83,7 @@ padding:20px;
 ">
 <h1>￼ Yayyy Ayush! I knew it ￼￼</h1>
 <img
-src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA2cWRhcjkxYmR3bjE2eXF1NjBlNTEzcWplN3FvM2d4eTV5eWZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2up9FZPFncIt1e/giphy.gif”
 alt="Dancing girl"
 style="width:250px; margin-top:20px; border-radius:20px;"
 >
